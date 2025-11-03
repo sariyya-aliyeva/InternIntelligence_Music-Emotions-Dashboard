@@ -15,14 +15,14 @@ The goal was to analyse how various musical characteristics — such as **valenc
 
 ## 📊 Dashboard Pages
 
-### **1️⃣ Overview of Emotions in Music**
+### **1️ Overview of Emotions in Music**
 - *KPI Cards*: Total Tracks, Avg. Valence, Avg. Energy  
 - *Bar Chart*: Average Valence by Genre  
 - *Scatter Plot*: Energy vs Valence (colored by Genre, size = Popularity)  
 - *Line Chart*: Avg. Valence by Tempo  
 - *Slicers*: Genre | Artist | Popularity  
 
-### **2️⃣ Deep Dive into Songs**
+### **2️ Deep Dive into Songs**
 - *Gauge Chart*: Average Valence (emotional positivity)  
 - *Decomposition Tree*: Why popularity is high — broken down by Genre → Artist → Energy → Valence  
 - *Word Cloud*: Most frequent emotional words in song titles  
@@ -30,7 +30,7 @@ The goal was to analyse how various musical characteristics — such as **valenc
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Pop** and **Dance** genres show the highest emotional positivity.  
 - **Rock** and **Metal** tracks are high in energy but emotionally darker.  
